@@ -16,6 +16,7 @@ loop do
 end
 =end
 
+#for testing purposes
  
 $map = [
   [{:number => 1, :colour => "purple"}, {:number => 2, colour: "glitter"}, {:number => 3, :colour => "red"}], 
